@@ -16,3 +16,5 @@ performed better than the aggregate returns of the hedge fund's top 5 performing
 
 ## Note On Data:
 This particular dataset with which the behavioral model was built, is highly confidential. In order to obtain the data, I was required to sign an NDA, and am thus unable to include any specifics of the data, code, or functions used to model my predictions. I am available on linkedin @ https://www.linkedin.com/in/sageh/ if you would like to ask any additional questions regarding my project.
+
+The performance of the behavioral model is shown in the cumulative_returns image, which shows how the algorithm performed compared to the fund's top 5 performing PMs and fund average.
